@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paogd.github.io/Wwq/sitemap.Wwq.gz
